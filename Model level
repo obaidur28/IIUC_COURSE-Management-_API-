@@ -1,4 +1,4 @@
-package com.iiuc.cse.b58.s3f.g5.iiuc_course_api.model;
+package com.iiuc.cse.b58.s3fm.g6.iiuc_course_api.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
